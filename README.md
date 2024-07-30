@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## Bem Vindos ao Meu Perfil
+## Me Chamo Beatriz Araujo
+## Estou Ultilizando esse Espaço para Minha Organização e Compartilhamento dos Meus Projetos Desenvolvidos Nessa Plataforma.
 <!--
 **biaaraujoo/biaaraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
